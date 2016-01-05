@@ -1,0 +1,23 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Starter Express Node.js project",
+  "main": "app.js",
+  "dependencies": {
+    "supertest": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Zachary Toner",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacktoner/defaultExpress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zacktoner/defaultExpress/issues"
+  },
+  "homepage": "https://github.com/zacktoner/defaultExpress#readme"
+}
